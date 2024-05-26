@@ -1,0 +1,12 @@
+# Data
+path: /kaggle/input/hand-keypoint-dataset-26k/hand_keypoint_dataset_26k/hand_keypoint_dataset_26k
+train: /kaggle/input/hand-keypoint-dataset-26k/hand_keypoint_dataset_26k/hand_keypoint_dataset_26k/images/train 
+val: /kaggle/input/hand-keypoint-dataset-26k/hand_keypoint_dataset_26k/hand_keypoint_dataset_26k/images/val 
+
+# Keypoints
+kpt_shape: [21, 3]  
+flip_idx: [0, 1, 2, 4, 3, 10, 11, 12, 13, 14, 5, 6, 7, 8, 9, 15, 16, 17, 18, 19, 20]
+
+# Classes
+names:
+  0: hand
