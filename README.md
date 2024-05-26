@@ -1,6 +1,8 @@
 # YOLOv8n-Pose Hand Pose Detection
 
-This repository contains the code and resources for a custom hand pose detection model trained using the YOLOv8n-pose framework by ultralytics ([https://www.ultralytics.com/](https://www.ultralytics.com/)). The model is trained on a custom dataset of hand keypoints available on [Kaggle](https://www.kaggle.com/datasets/riondsilva21/hand-keypoint-dataset-26k).
+![results](./results/prediction.jpg)
+
+This repository contains the code and resources for a custom hand pose detection model trained using the YOLOv8n-pose framework by [ultralytics](https://www.ultralytics.com/). The model is trained on a custom dataset of hand keypoints available on [Kaggle](https://www.kaggle.com/datasets/riondsilva21/hand-keypoint-dataset-26k).
 
 **Important Note:** Due to computational limitations, the model has only been trained to 50% of its potential. However, it still demonstrates excellent performance.
 
@@ -8,7 +10,7 @@ This repository contains the code and resources for a custom hand pose detection
 
 The primary objective of this project is to contribute to the development of state-of-the-art (SOTA) models for hand pose detection, specifically targeting applications in sign language classification and AR/VR.
 
-![results](./hand_detection_demo.mp4)
+
 
 **What's Included:**
 
